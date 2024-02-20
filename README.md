@@ -1,18 +1,18 @@
 ## ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy [Gabriel], un entusiasta de la programación y el desarrolo web, estoy emocionado de poder compartir cada uno de mis proyectos con ustedes.
+¡Bienvenido a mi perfil de GitHub! Soy ### Gabriel, un entusiasta de la programación y el desarrolo web, estoy emocionado de poder compartir cada uno de mis proyectos con ustedes.
 
 ### Sobre mí
 
-- 🔭 Actualmente estoy trabajando en [Desarrollo de páginas web].
-- 🌱 Estoy aprendiendo [Angular y React Native].
-- 💬 Pregunta sobre mí cualquier cosa relacionada con [Javascript].
-- 📫 Puedes contactarme en [gabrieltaveras3112@gmail.com].
+- 🔭 Actualmente estoy trabajando en ### Desarrollo de páginas web.
+- 🌱 Estoy aprendiendo ### Angular y React Native.
+- 💬 Pregunta sobre mí cualquier cosa relacionada con ### Javascript.
+- 📫 Puedes contactarme en ### gabrieltaveras3112@gmail.com.
 
 ### Mis tecnologías favoritas
 
-- 💻 Lenguajes de programación: [Html, Css, Javascript, Java, Angular, React Native, Php].
-- 🛠️ Herramientas y Frameworks: [Jquery, Laravel].
+- 💻 Lenguajes de programación: ### Html, Css, Javascript, Java, Angular, React Native, Php.
+- 🛠️ Herramientas y Frameworks: ### Jquery, Laravel.
 
 ### Estadísticas de GitHub
 
