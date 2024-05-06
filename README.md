@@ -20,6 +20,6 @@
 
 ### Contáctame
 
-¡Estoy deseando poder colaborar contigo! No dudes en contactarme por [correo electrónico](mailto:gabrieltaveras3112@gmail.com) o a través de [Whatsapp](123456789).
+¡Estoy deseando poder colaborar contigo! No dudes en contactarme por [correo electrónico](mailto:gabrieltaveras3112@gmail.com) o a través de [Whatsapp](666380241).
 
 ¡Gracias por visitar mi perfil!
