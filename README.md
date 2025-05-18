@@ -4,7 +4,7 @@
 
 ### Sobre mí
 
-- 🔭 Actualmente estoy trabajando en Desarrollo de páginas web.
+- 🔭 Actualmente estoy trabajando en Desarrollo de páginas web y de helpdesk.
 - 🌱 Estoy empezando a explorar Angular y React Native.
 - 💬 Pregunta sobre mí cualquier cosa relacionada con Javascript.
 - 📫 Puedes contactarme en gabrieltaveras3112@gmail.com.
