@@ -11,7 +11,7 @@
 
 ### Mis tecnologías favoritas
 
-- 💻 Lenguajes de programación: Html, Css, Javascript, Java, Angular, React Native, Php, Python.
+- 💻 Lenguajes de programación: Html, Css, Javascript, Java, Php, Python.
 - 🛠️ Herramientas y Frameworks: Jquery, Laravel, Bootstrap, Tailwind css.
 
 ### Estadísticas de GitHub
